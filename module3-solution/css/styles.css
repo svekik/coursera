@@ -1,0 +1,14 @@
+
+h1{
+	text-align: center;
+}
+
+/** HEADER **/
+#header-nav{
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+}
+
+
+
