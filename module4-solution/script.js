@@ -1,3 +1,4 @@
+
 // ******************************* 
 // START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
@@ -63,6 +64,6 @@ for (var i = 0; i < names.length; i++) {
   } else {
     helloSpeaker.speak(names[i]);
   }
-}
+};
 
 })();
